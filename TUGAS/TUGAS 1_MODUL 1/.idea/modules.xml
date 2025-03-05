@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TUGAS 1_MODUL 1.iml" filepath="$PROJECT_DIR$/TUGAS 1_MODUL 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../test/test.iml" filepath="$PROJECT_DIR$/../test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../CODELAB/testt/testt.iml" filepath="$PROJECT_DIR$/../../CODELAB/testt/testt.iml" />
     </modules>
   </component>
 </project>
