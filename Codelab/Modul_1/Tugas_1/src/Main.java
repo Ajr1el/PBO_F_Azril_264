@@ -37,7 +37,7 @@ public class Main {
             System.out.print("Masukkan NIM: ");
             String nim = scanner.nextLine();
 
-            if (nama.equals("Azril Maulana Azhar") && nim.equals("202410370110262")) {
+            if (nama.equals("Azril Maulana Azhar") && nim.equals("202410370110264")) {
                 System.out.println("Login Mahasiswa berhasil!");
                 System.out.println("Nama: " + nama);
                 System.out.println("NIM: " + nim);
